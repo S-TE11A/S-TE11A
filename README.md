@@ -1,6 +1,11 @@
-### Hi there 👋
-
+✨ SyraTi is made of **<ruby><rt></rt>白<rp>（</rp><rt>しら</rt><rp>）</rp></ruby>**, **Tea** and **<ruby><rt></rt>STi<rp>（</rp><rt>Subaru Tecnica International</rt><rp>）</rp></ruby>**
 <!--
+### I'm A
+- ⚙️FE engineer
+- 🎣Angler
+- ⛺Camper
+- 🏎️Car Fan
+
 **SyraTi/SyraTi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
