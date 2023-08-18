@@ -1,4 +1,4 @@
-✨ SyraTi is made of **<ruby><rt></rt>白<rp>（</rp><rt>しら</rt><rp>）</rp></ruby>**, **Tea** and **<ruby><rt></rt>STi<rp>（</rp><rt>Subaru Tecnica International</rt><rp>）</rp></ruby>**
+✨ SyraTi is made of **<ruby><rt></rt>白<rp>（</rp><rt>しら</rt><rp>）</rp></ruby>**, **Tea** and **<ruby><rt></rt>STi<rp>（</rp><rt>Subaru Tecnica International</rt><rp>）</rp></ruby>**.
 <!--
 ### I'm A
 - ⚙️FE engineer
