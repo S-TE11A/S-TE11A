@@ -1,4 +1,4 @@
-✨ SyraTi is made of **<ruby><rt></rt>白<rp>（</rp><rt>しら</rt><rp>）</rp></ruby>**, **Tea** and **<ruby><rt></rt>STi<rp>（</rp><rt>Subaru Tecnica International</rt><rp>）</rp></ruby>**.
+✨ S.TE11A is made of **<ruby><rt></rt>白<rp>（</rp><rt>S(hira)</rt><rp>）</rp></ruby>**, **Tea**, **<ruby><rt></rt>11<rp>（</rp><rt>Life Number</rt><rp>）</rp></ruby>** and **<ruby><rt></rt>Stella<rp>（</rp><rt>Kirisame Marisa</rt><rp>）</rp></ruby>**.
 <!--
 ### I'm A
 - ⚙️FE engineer
